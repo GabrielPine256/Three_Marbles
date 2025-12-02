@@ -1,6 +1,6 @@
 extends Node
 
- # all of these squares make a circle all of these squares make a circle all of... 
+# all of these squares make a circle all of these squares make a circle all of... 
 # Explain to user that cohesion should be biggest, alignment when nearby, and separation when too close.
 
 var selection : int = 0
