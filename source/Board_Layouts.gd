@@ -1337,7 +1337,7 @@ The Godot License:
 
 [ # Yin Yang
 "Black and White marbles move without regard for other marbles.\n\n", 
-"The contrast between the orderly and chaotic movements of these marbles are a perfect analogy for lands civilized by the Monarchy and the others.\n\n", 
+"", 
 "???\n\n", 
 "Due to circumstance beyond our control, they move so much.\n\n"], 
 
